@@ -35,6 +35,9 @@ class Solution(object):
         else:
             return False
 
+print(Solution().isPalindrome(121))
+
+
 #x= input
 #temp=x
 #rev_int_elements=[]
